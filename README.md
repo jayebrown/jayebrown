@@ -1,2 +1,0 @@
-# jayebrown
-my personal repository
